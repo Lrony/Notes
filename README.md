@@ -4,8 +4,8 @@ Notes
 笔记整理
 
 ### 目录
-- [Git](#Git)
-- [Android](#Android)
+- [Git](#git)
+- [Android](#android)
    
 ### 具体内容
 ==============
